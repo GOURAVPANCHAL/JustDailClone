@@ -53,7 +53,7 @@ const Navbar = () => {
           <ul>
             <li><Link href="/business"><p>For Business</p></Link></li>
             <li><Link href="/review"><p>Write a Review</p></Link></li>
-            <li><button className="login-btn">Log in</button></li>
+            <li><button className="black-btn">Log in</button></li>
           </ul>
         </div>
       </div>
